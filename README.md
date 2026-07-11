@@ -1,15 +1,14 @@
-<br></br>
 <div style="margin: 0 20px;">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=WDXL+Lubrifont+JP+N&weight=800&size=40&letterSpacing=wide&duration=2600&pause=1000&color=F78F3D&center=false&width=1000&height=100&lines=HELLO+There!+;+I+am+Aldwin+Rich+Villanueva!+;Aspiring+Full+Stack+Developer+" alt="Typing SVG" /></a>
 </div>
 <p align="center">
-  <img height="240" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlrdTMwY204d2w3b3JqN2lpMXQ3eTAwdmNkMnV6cG42YTR6MDdjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsE65jaPsUKUo/giphy.gif" alt="Wave Fox GIF" style="margin-top: 0;" />
+  <img height="280" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlrdTMwY204d2w3b3JqN2lpMXQ3eTAwdmNkMnV6cG42YTR6MDdjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xsE65jaPsUKUo/giphy.gif" alt="Wave Fox GIF" style="margin-top: 0;" />
 </p>
 
-<p align="center" style="font-size: 1.5em; font-weight: bold; margin: 2px 0;">
+<p align="center" style="font-size: 1.9em; font-weight: bold; margin: 2px 0;">
   Currently studying at the University of the Cordilleras, I am currently taking
 </p>
-<p align="center" style="font-size: 1.5em; font-weight: bold; margin: 2px 0;"> 
+<p align="center" style="font-size: 1.9em; font-weight: bold; margin: 2px 0;"> 
   Bachelor of Science in Information Technology
 </p>
 
@@ -37,11 +36,9 @@
   <a href="YOUR_GITCITY_URL"><img src="https://img.shields.io/badge/3D_GitCity-%23FF4500.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitCity" /></a>
 </p>
 
-<!-- 4. Categorized Technology Stack -->
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
-      <!-- Left Column: Web Stack -->
       <td width="50%" align="center" valign="top">
         <h3>🌐 Web Stack & Languages</h3>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="55" alt="HTML5 logo" />
@@ -75,10 +72,6 @@
       </td>
     </tr>
   </table>
-
-  <br /><br />
-
-  <!-- Bottom Centered Row: Design & Machine Learning -->
   <h3>🎨 Design & Machine Learning</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="55" alt="Figma logo" />
   <img width="15" />
@@ -88,7 +81,5 @@
 </div>
 
 </div>
-
-<hr />
 
 ![](./profile-3d-contrib/profile-night-view.svg)

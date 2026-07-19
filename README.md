@@ -15,7 +15,7 @@
 <br />
 
 <ul style="list-style-type: none; padding-left: 0; font-size: 1.1em; font-weight: bold; line-height: 1.8;">
-  <li>🔭 I’m currently working on **UniSuki**</li>
+  <li>🔭 I’m currently working on a project **UniSuki**</li>
   <li>🌱 I'm currently learning **Advanced Database Indexing Patterns, Caching Strategies, and SEO**</li>
   <li>💬 Ask me about **Tailwind CSS, React, and Expo Mobile Development**</li>
   <li>⚡ **Fun Fact:** My day depends entirely on how strong my coffee is.</li>
